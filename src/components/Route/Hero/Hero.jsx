@@ -31,7 +31,7 @@ const Hero = () => {
             </div>
         </Link>
       </div>
-    </div>
+    </div> 
   );
 };
 
